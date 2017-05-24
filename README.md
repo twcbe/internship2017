@@ -34,6 +34,6 @@ In the first stage, you will need to complete an online programming test. The te
 #### Stage 3: Personal Interview
 #### Date: Starting Tuesday, May 30 onwards
 
-1. Selected students will recieve an email with date, time and place to take up the interview.
-2. The interview will be testing your technical skills like problem solving, concept clarity, designing etc.
+1. Selected students will receive an email with date, time and place to take up the interview.
+2. The interview will be testing your technical skills like problem-solving, concept clarity, designing etc.
 3. Selected students will be eligible to attend the internship program
