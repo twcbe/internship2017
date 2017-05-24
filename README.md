@@ -54,9 +54,10 @@ In the first stage, you will need to complete an online programming test. The te
 #### Stage 3: Personal Interview
 #### Date: Starting Tuesday, May 30 onwards
 
-1. Shortlisted students will receive an email with date, time and place to take up the interview.
-2. The interviews will be held at ThoughtWorks' office in Saravanampatti, Coimbatore.
-2. The interview will be testing your technical skills like problem-solving, concept clarity, designing etc.
-3. Selected students will be intimated by email regarding their selection by **June 2, 2017**.
+1. Only students who clear the stages 1 and 2 will be invited for the personal interview. 
+2. Shortlisted students will receive an email with date, time and place to take up the interview.
+3. The interviews will be held at ThoughtWorks' office in Saravanampatti, Coimbatore.
+4. The interview will be testing your technical skills like problem-solving, concept clarity, designing etc.
+5. Selected students will be intimated by email regarding their selection by **June 2, 2017**.
 
 
