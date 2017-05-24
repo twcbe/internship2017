@@ -27,6 +27,9 @@ In the first stage, you will need to complete an online programming test. The te
 1. This is for students who have opted for the Hardware or "Either" tracks.
 2. **Only students who clear the stage 1 (online programming test) will be invited for this stage.**
 3. The shortlisted students will receive the problems for the design challenge at the start of the design challenge
+4. You would need to design the solution in the [easyeda](https://easyeda.com/editor) web tool
+5. Once you are done with the design, download the svg file (File -> SVG Source -> Download) and send it to the email-id (tw-cbe-internship-2017@thoughtworks.com)
+6. Solutions that are submitted after 5.00 PM will not be considered
 
 #### Stage 3: Personal Interview
 #### Date: Starting Tuesday, May 30 onwards
