@@ -1,5 +1,3 @@
-## ThoughtWorks Coimbatore Mentorship Programme 2017
-
 ### About the Programme
 
 [ThoughtWorks](https://www.thoughtworks.com) is offering a 3 month internship/mentorship programme in the area of Internet of Things technology (IoT). The programme will be from June - September 2017. Selected students will: 
