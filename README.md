@@ -4,7 +4,7 @@ Thank you for applying for an internship at ThoughtWorks Coimbatore. Your applic
 
 ### Selection Process
 
-#### Stage 1: Online Programming Test (C, C++ basics)
+#### Stage 1: Online Programming Test (C, C++ basics) and general aptitude test
 #### Date: Sunday, May 28, 2017 - 11.00 AM to 12.30 PM
 
 In the first stage, you will need to complete an online programming test. The test will be a combination of multiple choice questions and programming problems. The test will cover your knowledge and application of basic computer science concepts and ability to program in a programming language of your choice including C, C++, Java etc. The test will be administered on an online platform called [CHUZ](http://chuz.in/). You will soon receive an email from e-box.in with your login credentials for the test.
@@ -31,4 +31,6 @@ In the first stage, you will need to complete an online programming test. The te
 #### Stage 3: Personal Interview
 #### Date: Starting Tuesday, May 30 onwards
 
-
+1. Selected students will recieve an email with date, time and place to take up the interview.
+2. The interview will be testing your technical skills like problem solving, concept clarity, designing etc.
+3. Selected students will be eligible to attend the internship program
