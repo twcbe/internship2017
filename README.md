@@ -1,8 +1,28 @@
-## ThoughtWorks Coimbatore Internship Programme 2017
+## ThoughtWorks Coimbatore Mentorship Programme 2017
 
-Thank you for applying for an internship at ThoughtWorks Coimbatore. Your application has been received. Please read the following instructions carefully regarding the selection process for the internship.
+### About the Programme
+
+[ThoughtWorks](https://www.thoughtworks.com) is offering a 3 month internship/mentorship programme in the area of Internet of Things technology (IoT). The programme will be from June - September 2017. Selected students will: 
+
+- Get hands-on project experience in the area of IoT
+- Understand how a real-world software engineering project works from scratch
+- Improve their programming
+- Get experience of working in a professional corporate environment
+- Learn from fellow students
+- Avail free breakfast, lunch and snacks
+
+#### Interested?
+
+We are looking for students:
+- In their 3rd year of college with interest in software or hardware programming
+- With Programming Skills: Basics of C, C++ and  Computer Science (OR)
+- Hardware skills: Ability to Design and program a simple circuit
+- Project experience or experience with Arduino or any other programming boards is a plus
+
 
 ### Selection Process
+
+Please read the following instructions carefully regarding the selection process for the programme.
 
 #### Stage 1: Online Programming Test (C, C++ basics) and general aptitude test
 #### Date: Sunday, May 28, 2017 - 11.00 AM to 12.30 PM
@@ -29,11 +49,14 @@ In the first stage, you will need to complete an online programming test. The te
 3. The shortlisted students will receive the problems for the design challenge at the start of the design challenge
 4. You would need to design the schematic solution in the [easyeda](https://easyeda.com/editor) web tool (Feel free to go through the tool before the design challenge and make yourself comfortable with the tool)
 5. Once you are done with the design, download the svg file (File -> SVG Source -> Download) and send it to the email-id (tw-cbe-internship-2017@thoughtworks.com)
-6. Solutions that are submitted after 5.00 PM will not be considered
+6. **Solutions that are submitted after 5.00 PM on May 28, 2017 will not be considered**
 
 #### Stage 3: Personal Interview
 #### Date: Starting Tuesday, May 30 onwards
 
-1. Selected students will receive an email with date, time and place to take up the interview.
+1. Shortlisted students will receive an email with date, time and place to take up the interview.
+2. The interviews will be held at ThoughtWorks' office in Saravanampatti, Coimbatore.
 2. The interview will be testing your technical skills like problem-solving, concept clarity, designing etc.
-3. Selected students will be eligible to attend the internship program
+3. Selected students will be intimated by email regarding their selection by **June 2, 2017**.
+
+
